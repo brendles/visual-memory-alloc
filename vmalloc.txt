@@ -1,0 +1,42 @@
+l=1--"lambda math quantum zcalc"
+m=2--"mind"
+n=3--"nous"
+o=0--"observer(s)"
+cls(l)--cls(linear programmatic)
+flip(m)--function_m(m,map,q,ram)
+print(n)--map(n)
+::o::--dna={a=1,c=2,g=3,t=4}
+cls(q)--for all in all do 
+ for m in all do 
+  for n in all do 
+   for o in all do 
+    l=3--+=lambda moves to base3
+    m=4 --+=mind account for 4-bit
+    n=11--+=neural network binary
+    o=1 --+=0perator quantum baseq
+     l%=3 m+=3 n*=3 o/=3
+      l-=3 m-=3 n-=3 o-=3
+      p=(cos(l+m+n+o)+sin(l+m+n+o))
+       p+=1--probability,program
+        flip(p+1)--return,blit+^
+        q=m*p--old mechanics+qm+
+         flip(q,64,64,q)--flip+^
+         m=sqrt(l+n+o+p+q)--flr^
+          flip(m+m+m)--flr({^})+
+          map(m+m+m)--ram^flr
+          z=(m+m+m)--z=q_ram_map
+          cls(q)--calculate(q)
+           flip(q)--return,blit
+            print(q,1,1,1)--asm
+             cls(z)--z surface
+              flip(z)--z blit q☉
+               print(z,p,m,l)save(l,m,n,o,p,q)save(m+m+m+q)--q…
+                print((z+q),10,10,10)
+                flip(all)print(all,all,all,all)
+                 m=flip(0)flip(1)flip(11)flip(l)flip(m)flip(n)flip(o)flip(p)flip(q)flip(all)map(all)print((6*7),42,42,42)spr(0,m,m)spr(0,m,q)spr(0,q,m)spr(0,q,q)spr(flip(m),flip(q),flip(z))spr(m,flip(z),flip(q))spr(m,flip(z),flip(z))poke(24364,7)print("0",0,0,0)print('1',1,1,1)print('11',11,11,11)print('21',21,21,21)print(32,32,32,32)print("50",50,50,50)print("63",63,63,63)print("64",64,64,64)print(rnd(map),rnd(7),rnd(7),rnd(7))map(q,7,7,7)map(7,q,7,7)map(7,7,q,7)map(7,7,7,q)map(q,q,7,7)map(q,7,q,7)map(q,7,7,q)map(7,q,q,7)map(7,q,q,q)map(q,7,q,q)map(q,q,7,q)map(q,q,q,7)map(q,q,q,q)print(map) --our theoretical qubit is positioned 64,64,64,64,64,64,64.. and is being superpositioned technically by the lambdafunctions(blit,draw,map,print)///7 is our original new "quantum base 10" and if we use 11 instead of all instances of 7 we are in true quantum state.
+brendanlong=100--⬅️😐♪🅾️◆…--m😐
+   end --observer contingency
+  end --network awareness
+ end --mathematical base lambda o
+flip(o)--end
+goto o --observer(s) viewing n
